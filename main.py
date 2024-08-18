@@ -68,20 +68,20 @@ def send_message():
   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css">
   <style>
     body{
-      background-color: #f8f9fa;
+      background-image: url('https://i.ibb.co/jDbwkyq/4d43c23880f0a7794c23c35a9a13af88.jpg');
     }
     .container{
       max-width: 500px;
-      background-color: #fff;
-      border-radius: 10px;
-      padding: 20px;
+      background-size: cover;
+      border-radius: 0px;
+      padding: 0px;
       box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
-      margin: 0 auto;
+      margin: 50px auto;
       margin-top: 20px;
     }
     .header{
       text-align: center;
-      padding-bottom: 20px;
+      padding-bottom: 0px;
     }
     .btn-submit{
       width: 100%;
@@ -90,11 +90,11 @@ def send_message():
     .footer{
       text-align: center;
       margin-top: 20px;
-      color: #888;
+      color: white;
     }
     .whatsapp-link {
-      display: inline-block;
-      color: #25d366;
+ red  display: inline-block;
+      color: white;
       text-decoration: none;
       margin-top: 10px;
     }
@@ -105,7 +105,7 @@ def send_message():
 </head>
 <body>
   <header class="header mt-4">
-    <h2 class="mb-3">🤍(( 𝑴𝑹 : 𝗥𝗢𝗠𝗘𝗡𝗧𝗜𝗖 𝗔𝗥𝗬𝗔𝗡 𝗛𝗘𝗥𝗘 ))🖤</h2>
+    <h2 class="mb-3">🤍(( 𝙈𝙍 : 𝗔𝗥𝗬𝗔𝗡 𝗫𝟰 𝗔𝗭𝗔𝗠 𝗞𝗜 𝗔𝗣𝗣𝗜))🖤</h2>
     <h1 class="mt-3">𝐌𝐑 : 𝐀𝐑𝐘𝐀𝐍 𝐊𝐈𝐍𝐆</h1>
   </header>
   <div class="container text-center">
